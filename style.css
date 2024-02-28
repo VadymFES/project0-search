@@ -1,0 +1,123 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    padding: 10px; 
+    background-color: #f0f0f0; 
+    border: 1px solid #ddd; 
+    display: inline-block; 
+    border-radius: 8px; 
+}
+
+
+.search-container {
+
+    min-width: 167px;
+    width: 50%;
+    height: auto; 
+    color: #222;
+    font-size: 13px;
+    line-height: 16px;
+    vertical-align: middle;
+}
+
+.search-container h1 {
+    margin-bottom: 50px;
+}
+
+.advanced-search {
+    width: 100%; 
+    padding: 8px; 
+    margin-top: 5px;
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+}
+
+.search-bar {
+    width: 50%;
+    padding: 10px;
+    margin: 20px 7px 0 0;
+    border: 1px solid #9d9d9d;
+    border-radius: 24px;
+    box-shadow: none;
+    box-sizing: border-box;
+}
+
+.search-button{
+    margin: 20px 7px 0 0;
+    padding: 10px 20px;
+    border-radius: 24px;
+    border: 1px solid #f2f2f2;
+    background-color: #f8f9fa;
+    cursor: pointer;
+    font-size: 14px;
+
+    background-color: #4285f4;
+    color: white;
+}
+
+.form10 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form12  {
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #f2f2f2;
+    border-radius: 8px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    margin-top: 20px;
+}
+
+.form-group1, .form-group2, .form-group3, .form-group4 {
+    display: flex;
+    align-items: center; 
+    margin-bottom: 10px; 
+}
+
+.form-group1 label{
+    margin-right: 73px;
+    min-width: fit-content;
+}
+
+.form-group2 label{
+    margin-right: 12.5px;
+    min-width: fit-content;
+}
+
+.form-group3 label{
+    margin-right: 52px;
+    min-width: fit-content;
+}
+
+.form-group4 label{
+    margin-right: 43px;
+    min-width: fit-content;
+}
+
+
+
+
+
+
+
