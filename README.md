@@ -8,7 +8,9 @@ Google Advanced Search: An interface that allows users to perform more refined s
 
 ## Pages
 ```index.html```: The main Google Search page.
+
 ```image_search.html```: The Google Image Search page.
+
 ```advanced_search.html```: The Google Advanced Search page.
 
 ## Usage
