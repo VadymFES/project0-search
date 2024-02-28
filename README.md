@@ -8,8 +8,10 @@ Google Advanced Search: An interface that allows users to perform more refined s
 
 ## Pages
 ```index.html```: The main Google Search page.
-```image_search.html```: The Google Image Search page.
-```advanced_search.html```: The Google Advanced Search page.
+
+```imagesearch.html```: The Google Image Search page.
+
+```advancedsearch.html```: The Google Advanced Search page.
 
 ## Usage
 To use this project, simply open the ```index.html``` file in a web browser. You will see a search bar that you can use to perform standard Google searches. In the upper-right corner of the page, there are links to navigate to the Image Search or Advanced Search pages. On each of these pages, you can perform the respective types of searches.
